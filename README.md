@@ -59,3 +59,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Gouranga Jha
 - GitHub: [Gouranga-GH](https://github.com/Gouranga-GH)
 - Email: post.gourang@gmail.com
+- test pypi - Documentation Link: https://test.pypi.org/project/synthetic-data-generator/
